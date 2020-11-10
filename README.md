@@ -11,7 +11,7 @@ Developed with a framework Laravel and Livewire.
 AppNote ...
 
 
-### Somme fitures :
+### Somme features :
 
 - **[Login](https://login.com/)**
 
